@@ -1,5 +1,2 @@
-run_analysis.R
-
-
-
+Cleaning Data run_analysis.R
 
